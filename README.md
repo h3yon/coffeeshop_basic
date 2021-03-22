@@ -9,8 +9,8 @@ https://docs.google.com/spreadsheets/d/14VdZdc63ggYVlDzKennzdNXW8KiigHrSVm5xC9NF
 
 <h4>3. 기능</h4> 
 ```
-1	POST	/user/signup	회원가입
-2	POST 	/user/signin	로그인
+1	POST	/user/signup	회원가입</br>
+2	POST 	/user/signin	로그인</br>
 3	GET	/user/:userIdx	유저상세정보
 4	PATCH	/user/:userIdx	유저 정보 변경
 5	PATCH	/user/:userIdx/delete	회원탈퇴
