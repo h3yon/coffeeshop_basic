@@ -8,7 +8,7 @@ https://aquerytool.com:443/aquerymain/index/?rurl=b8b4b7b1-b819-4c8f-bc31-c2da90
 https://docs.google.com/spreadsheets/d/14VdZdc63ggYVlDzKennzdNXW8KiigHrSVm5xC9NFdYk/edit?usp=sharing
 
 <h4>3. 기능</h4> 
-```
+<pre><code>
 1	POST	/user/signup	회원가입</br>
 2	POST 	/user/signin	로그인</br>
 3	GET	/user/:userIdx	유저상세정보
@@ -37,4 +37,4 @@ https://docs.google.com/spreadsheets/d/14VdZdc63ggYVlDzKennzdNXW8KiigHrSVm5xC9NF
 26	GET	/arcard/:arcardId	아티제 카드 상세정보 조회
 27	GET	/arcard/:arcardId/history	아티제 카드 거래이력 조회
 28	DELETE	/arcard/:arcardId	아티제 카드 삭제
-```
+</code></pre>
