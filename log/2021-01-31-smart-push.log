@@ -1,0 +1,18 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:24:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:26:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:26:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:27:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:45:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:45:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:46:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:48:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:50:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:50:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:52:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:52:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:52:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 14:53:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 23:44:17"}
+{"message":"createOrderDetail DB Connection error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where, amount)\n      values (6, 3, IFNULL((select ordersTime from Orders where O' at line 1","level":"error","timestamp":"2021-01-31 23:44:55"}
+{"message":"createOrderDetail DB Connection error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where, amount)\n      values (6, 3, IFNULL((select ordersTime from Orders where O' at line 1","level":"error","timestamp":"2021-01-31 23:44:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-31 23:51:55"}

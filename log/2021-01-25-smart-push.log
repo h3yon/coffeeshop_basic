@@ -1,0 +1,74 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:05:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:08:22"}
+{"message":"givePresent Query error\n: {}","level":"error","timestamp":"2021-01-25 00:08:44"}
+{"message":"givePresent DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-25 00:08:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:14:47"}
+{"message":"givePresent Query error\n: {}","level":"error","timestamp":"2021-01-25 00:15:05"}
+{"message":"givePresent DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-25 00:15:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:15:35"}
+{"message":"givePresent Query error\n: {}","level":"error","timestamp":"2021-01-25 00:15:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:16:06"}
+{"message":"givePresent Query error\n: {}","level":"error","timestamp":"2021-01-25 00:16:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:17:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:18:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:29:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:32:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:51:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:53:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 00:53:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 01:44:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 01:59:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:00:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:07:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:25:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:26:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:26:55"}
+{"message":"cartOption Query error\n: {\"message\":\"Duplicate entry '16' for key 'cartoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '16' for key 'cartoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-25 02:28:09"}
+{"message":"updateArCard Query error\n: {\"message\":\"Unknown column 'arMoney' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'arMoney' in 'field list'\"}","level":"error","timestamp":"2021-01-25 02:29:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:30:49"}
+{"message":"updateArCardHistory Query error\n: {\"message\":\"Subquery returns more than 1 row\",\"code\":\"ER_SUBQUERY_NO_1_ROW\",\"errno\":1242,\"sqlState\":\"21000\",\"sqlMessage\":\"Subquery returns more than 1 row\"}","level":"error","timestamp":"2021-01-25 02:30:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:33:02"}
+{"message":"updateArCardHistory Query error\n: {\"message\":\"Subquery returns more than 1 row\",\"code\":\"ER_SUBQUERY_NO_1_ROW\",\"errno\":1242,\"sqlState\":\"21000\",\"sqlMessage\":\"Subquery returns more than 1 row\"}","level":"error","timestamp":"2021-01-25 02:33:08"}
+{"message":"updateArCardHistory Query error\n: {\"message\":\"Subquery returns more than 1 row\",\"code\":\"ER_SUBQUERY_NO_1_ROW\",\"errno\":1242,\"sqlState\":\"21000\",\"sqlMessage\":\"Subquery returns more than 1 row\"}","level":"error","timestamp":"2021-01-25 02:38:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:53:37"}
+{"message":"updateArCardHistory Query error\n: {\"message\":\"Subquery returns more than 1 row\",\"code\":\"ER_SUBQUERY_NO_1_ROW\",\"errno\":1242,\"sqlState\":\"21000\",\"sqlMessage\":\"Subquery returns more than 1 row\"}","level":"error","timestamp":"2021-01-25 02:53:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:57:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 02:59:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:07:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:09:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:24:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:26:39"}
+{"message":"orderStateAdded Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\"}","level":"error","timestamp":"2021-01-25 03:27:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:29:12"}
+{"message":"orderStateAdded Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\"}","level":"error","timestamp":"2021-01-25 03:29:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:29:47"}
+{"message":"orderStateAdded Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\"}","level":"error","timestamp":"2021-01-25 03:29:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:30:20"}
+{"message":"orderStateAdded Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as totalAmt from Orders\\n      inner join CartItem on Orders.cartId = CartItem.ca' at line 3\"}","level":"error","timestamp":"2021-01-25 03:30:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 03:31:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 04:36:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 04:37:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 04:39:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 04:40:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 04:41:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 11:56:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 11:59:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:01:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:01:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:02:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:17:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:17:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:18:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:32:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:36:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:36:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:38:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:40:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:56:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:57:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:58:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:58:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:59:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 12:59:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 13:02:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-25 13:37:12"}

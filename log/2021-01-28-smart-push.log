@@ -1,0 +1,218 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:25:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:27:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:28:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:31:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:32:19"}
+{"message":"createOrderDetail DB Connection error\n: Incorrect integer value: '[object Object]' for column 'ordersId' at row 1","level":"error","timestamp":"2021-01-28 01:32:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:33:02"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 01:33:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:33:37"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 01:33:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:33:52"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 01:33:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:34:02"}
+{"message":"createOrderDetail DB Connection error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ('[object Object]')), 1, 1, 1, 1, 'ice',\n        (select pPrice from product w' at line 2","level":"error","timestamp":"2021-01-28 01:34:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:35:15"}
+{"message":"createOrderDetail DB Connection error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ('[object Object]')), 1, 1, 1, 1, 'ice',\n        (select pPrice from product w' at line 2","level":"error","timestamp":"2021-01-28 01:35:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:35:36"}
+{"message":"createOrderDetail DB Connection error\n: Incorrect integer value: '[object Object]' for column 'ordersId' at row 1","level":"error","timestamp":"2021-01-28 01:35:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:36:40"}
+{"message":"createOrderDetail DB Connection error\n: Incorrect integer value: '[object Object]' for column 'ordersId' at row 1","level":"error","timestamp":"2021-01-28 01:36:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:37:05"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 01:37:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:37:18"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 01:37:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:37:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:47:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:52:20"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 01:52:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:52:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:55:01"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 01:55:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 01:55:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:01:35"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:01:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:01:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:03:08"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:03:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:03:24"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Column 'surcharge' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'surcharge' cannot be null\"}","level":"error","timestamp":"2021-01-28 02:03:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:05:15"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:05:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:06:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:07:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:07:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:08:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:08:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:09:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:09:50"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Column 'surcharge' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'surcharge' cannot be null\"}","level":"error","timestamp":"2021-01-28 02:09:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:12:21"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:12:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:12:54"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:12:58"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:13:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:13:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:14:02"}
+{"message":"OrdersOptionUpdate Query error\n: {\"message\":\"Unknown column 'productId' in 'where clause'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'productId' in 'where clause'\"}","level":"error","timestamp":"2021-01-28 02:14:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:16:58"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersId' cannot be null","level":"error","timestamp":"2021-01-28 02:17:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:18:20"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersTime' cannot be null","level":"error","timestamp":"2021-01-28 02:18:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:18:44"}
+{"message":"createOrderDetail DB Connection error\n: Column 'ordersTime' cannot be null","level":"error","timestamp":"2021-01-28 02:18:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:19:10"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1-1' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 02:19:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:20:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:22:36"}
+{"message":"createOrder Query error\n: {\"message\":\"Incorrect integer value: 'N' for column 'branchId' at row 1\",\"code\":\"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD\",\"errno\":1366,\"sqlState\":\"HY000\",\"sqlMessage\":\"Incorrect integer value: 'N' for column 'branchId' at row 1\"}","level":"error","timestamp":"2021-01-28 02:22:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:25:00"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'uId' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'uId' cannot be null\"}","level":"error","timestamp":"2021-01-28 02:25:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:25:15"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'uId' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'uId' cannot be null\"}","level":"error","timestamp":"2021-01-28 02:25:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:25:41"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'uId' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'uId' cannot be null\"}","level":"error","timestamp":"2021-01-28 02:25:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:26:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:38:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:38:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:40:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:40:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:41:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:50:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:50:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:53:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:54:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:54:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:56:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:57:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:58:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 02:59:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:03:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:22:09"}
+{"message":"checkReserve Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select max(ordersId) from Orders) as cnt\\n            where uId = 3 and state='ac' at line 1\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select max(ordersId) from Orders) as cnt\\n            where uId = 3 and state='ac' at line 1\"}","level":"error","timestamp":"2021-01-28 03:22:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:26:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:26:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:27:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:30:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:31:06"}
+{"message":"checkReserve Query error\n: {\"message\":\"Unknown column 'uId' in 'where clause'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'uId' in 'where clause'\"}","level":"error","timestamp":"2021-01-28 03:31:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:31:53"}
+{"message":"checkReserve Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2\"}","level":"error","timestamp":"2021-01-28 03:31:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:32:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:32:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:33:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:33:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:34:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:36:37"}
+{"message":"updateArCard Query error\n: {\"message\":\"You can't specify target table 'Arcard' for update in FROM clause\",\"code\":\"ER_UPDATE_TABLE_USED\",\"errno\":1093,\"sqlState\":\"HY000\",\"sqlMessage\":\"You can't specify target table 'Arcard' for update in FROM clause\"}","level":"error","timestamp":"2021-01-28 03:37:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:43:21"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-28 03:43:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:44:56"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-28 03:45:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:47:00"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-28 03:48:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:48:18"}
+{"message":"updateArCard Query error\n: {\"message\":\"You can't specify target table 'Arcard' for update in FROM clause\",\"code\":\"ER_UPDATE_TABLE_USED\",\"errno\":1093,\"sqlState\":\"HY000\",\"sqlMessage\":\"You can't specify target table 'Arcard' for update in FROM clause\"}","level":"error","timestamp":"2021-01-28 03:48:20"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:50:11"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-28 03:50:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:50:33"}
+{"message":"updateArCard Query error\n: {\"message\":\"You can't specify target table 'Arcard' for update in FROM clause\",\"code\":\"ER_UPDATE_TABLE_USED\",\"errno\":1093,\"sqlState\":\"HY000\",\"sqlMessage\":\"You can't specify target table 'Arcard' for update in FROM clause\"}","level":"error","timestamp":"2021-01-28 03:50:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:51:21"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-28 03:51:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:52:03"}
+{"message":"OrdersOption Query error\n: {\"message\":\"Duplicate entry '3-2' for key 'ordersoption.PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '3-2' for key 'ordersoption.PRIMARY'\"}","level":"error","timestamp":"2021-01-28 03:52:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 03:52:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 04:02:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 04:07:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 13:38:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 13:48:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:20:17"}
+{"message":"selectOrderState Query error\n: {\"message\":\"Column 'ordersId' in field list is ambiguous\",\"code\":\"ER_NON_UNIQ_ERROR\",\"errno\":1052,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'ordersId' in field list is ambiguous\"}","level":"error","timestamp":"2021-01-28 14:21:57"}
+{"message":"selectOrderState Query error\n: {\"message\":\"Column 'ordersId' in field list is ambiguous\",\"code\":\"ER_NON_UNIQ_ERROR\",\"errno\":1052,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'ordersId' in field list is ambiguous\"}","level":"error","timestamp":"2021-01-28 14:25:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:25:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:26:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:27:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:50:43"}
+{"message":"createOrderDetail DB Connection error\n: Column 'branchId' cannot be null","level":"error","timestamp":"2021-01-28 14:50:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 14:51:40"}
+{"message":"createOrderDetail DB Connection error\n: Column 'branchId' cannot be null","level":"error","timestamp":"2021-01-28 14:51:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:41:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:41:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:43:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:43:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:44:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:45:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:47:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:47:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:48:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:49:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:50:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:50:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 18:51:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:00:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:24:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:24:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:25:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:28:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:29:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:29:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:32:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:32:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:39:30"}
+{"message":"App - changeMyInfo Query error\n: {\"message\":\"You can't specify target table 'User' for update in FROM clause\",\"code\":\"ER_UPDATE_TABLE_USED\",\"errno\":1093,\"sqlState\":\"HY000\",\"sqlMessage\":\"You can't specify target table 'User' for update in FROM clause\"}","level":"error","timestamp":"2021-01-28 19:39:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:48:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 19:48:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:22:13"}
+{"message":"App - changeMyInfo DB Connection error\n: connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2021-01-28 22:22:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:24:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:27:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:42:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:48:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 22:58:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:00:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:01:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:05:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:05:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:06:05"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:06:14"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:06:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:07:10"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:07:11"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:07:15"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:07:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:08:11"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:08:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:09:20"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:09:28"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:09:30"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:09:45"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:09:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:10:04"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:10:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:11:33"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:11:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:14:34"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:14:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:14:48"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:14:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:15:55"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:15:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:16:23"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:16:26"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:16:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:17:17"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:17:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:20:13"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:20:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:21:05"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:21:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:21:42"}
+{"message":"App - SignIn Query error\n: {}","level":"error","timestamp":"2021-01-28 23:21:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:23:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:23:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:28:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:29:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:29:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:30:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:36:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-28 23:41:03"}

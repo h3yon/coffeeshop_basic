@@ -1,0 +1,116 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:17:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:18:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:19:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:19:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:22:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:31:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:34:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:35:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:39:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:41:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:44:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:47:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:47:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:54:41"}
+{"message":"selectCategory Query error\n: categoryId is not defined","level":"error","timestamp":"2021-01-29 00:54:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:55:07"}
+{"message":"selectCategory Query error\n: categoryId is not defined","level":"error","timestamp":"2021-01-29 00:55:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:55:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:55:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:58:34"}
+{"message":"createOrderDetail DB Connection error\n: Column 'branchId' cannot be null","level":"error","timestamp":"2021-01-29 00:58:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 00:59:18"}
+{"message":"createOrderDetail DB Connection error\n: Column 'branchId' cannot be null","level":"error","timestamp":"2021-01-29 00:59:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 01:22:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 01:24:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 01:25:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 01:28:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 01:59:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:03:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:06:43"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-29 02:06:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:07:06"}
+{"message":"selectCouponId DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-29 02:07:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:07:23"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-29 02:07:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:07:44"}
+{"message":"selectCouponId DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-29 02:07:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:08:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:08:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:09:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:11:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:18:40"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-29 02:18:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:18:56"}
+{"message":"createOrder Query error\n: {\"message\":\"Column 'totalAmt' cannot be null\",\"code\":\"ER_BAD_NULL_ERROR\",\"errno\":1048,\"sqlState\":\"23000\",\"sqlMessage\":\"Column 'totalAmt' cannot be null\"}","level":"error","timestamp":"2021-01-29 02:19:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:22:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:23:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:24:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:38:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:51:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:55:20"}
+{"message":"expireDateUpdate Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and state != 'used'' at line 4\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and state != 'used'' at line 4\"}","level":"error","timestamp":"2021-01-29 02:55:21"}
+{"message":"SignUp DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-29 02:55:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:57:27"}
+{"message":"expireDateUpdate Query error\n: {\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and state != 'used'' at line 4\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and state != 'used'' at line 4\"}","level":"error","timestamp":"2021-01-29 02:57:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 02:59:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:48:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:50:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:51:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:53:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:56:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 12:58:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:05:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:08:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:08:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:12:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:12:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:13:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:14:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:14:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:15:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:16:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:16:30"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:17:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:19:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:27:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:28:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:29:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:29:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:30:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:31:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:36:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:37:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:38:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:39:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:39:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:39:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:40:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:40:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:44:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 13:55:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:23:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:23:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:24:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:25:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:26:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:27:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:41:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:42:48"}
+{"message":"givePresent Query error\n: {\"message\":\"Incorrect parameter count in the call to native function 'ord'\",\"code\":\"ER_WRONG_PARAMCOUNT_TO_NATIVE_FCT\",\"errno\":1582,\"sqlState\":\"42000\",\"sqlMessage\":\"Incorrect parameter count in the call to native function 'ord'\"}","level":"error","timestamp":"2021-01-29 14:42:49"}
+{"message":"givePresent DB Connection error\n: res is not defined","level":"error","timestamp":"2021-01-29 14:42:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:43:25"}
+{"message":"givePresent Query error\n: {\"message\":\"Incorrect parameter count in the call to native function 'ord'\",\"code\":\"ER_WRONG_PARAMCOUNT_TO_NATIVE_FCT\",\"errno\":1582,\"sqlState\":\"42000\",\"sqlMessage\":\"Incorrect parameter count in the call to native function 'ord'\"}","level":"error","timestamp":"2021-01-29 14:43:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:55:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:56:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:57:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:59:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 14:59:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 15:00:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 21:58:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 21:58:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 22:05:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 22:06:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 22:08:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 22:10:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-01-29 22:14:00"}
