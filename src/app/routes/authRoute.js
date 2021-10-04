@@ -7,9 +7,9 @@ module.exports = function(app){
 
   // 네이버 Signiture API
   const date = Date.now().toString();
-  const uri = 'ncp:sms:kr:263694435262:bunjang-project';
-  const secretKey = 'cCx5MiZ4zm7mY9uHl2qefWKSi85jscUdRCYdc9M5';
-  const accessKey = 'X2xF0fxOitdmCuJgaouw';
+  const uri = 'ncp:sms:kr:263694435262:[project명]';
+  const secretKey = '';
+  const accessKey = '';
   const method = 'POST';
   const space = ' ';
   const newLine = '\n';
