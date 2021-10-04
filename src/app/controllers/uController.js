@@ -20,8 +20,8 @@ const CryptoJS = require('crypto-js');
 
 // 환경변수 설정
 const NCP_serviceID = 'ncp:sms:kr:263694435262:bunjang-project';
-const NCP_accessKey = '5MXhcAJoq0B9vweDzJQm';
-const NCP_secretKey = '46bb135dc1ab4e649e7931fd8a08a62b';
+const NCP_accessKey = '';
+const NCP_secretKey = '';
 
 const date = Date.now().toString();
 const uri = NCP_serviceID;
