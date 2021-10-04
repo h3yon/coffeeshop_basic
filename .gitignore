@@ -1,0 +1,11 @@
+# package 관련
+package-lock.json
+
+# log 디렉토리
+log/*
+
+# node_modules 디렉토리
+node_modules/*
+
+# 설정 파일
+.env
